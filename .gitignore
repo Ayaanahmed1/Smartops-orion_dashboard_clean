@@ -1,0 +1,19 @@
+cat >> .gitignore << 'EOF'
+# Environment & secrets
+.env
+
+# Python cache/venv
+__pycache__/
+*.pyc
+.env*
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+EOF
+.env
+.env
+.env
+.env
